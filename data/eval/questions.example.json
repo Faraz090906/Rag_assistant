@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": "WRITE A QUESTION YOU VERIFIED AGAINST YOUR PDF",
+    "answerable": true,
+    "expected_source": "your_file.pdf",
+    "expected_pages": [12],
+    "notes": "Where you found the answer, in your own words"
+  },
+  {
+    "id": "q2",
+    "question": "A QUESTION THE PDFs DO NOT ANSWER (e.g. about an unrelated topic)",
+    "answerable": false,
+    "expected_source": null,
+    "expected_pages": [],
+    "notes": "Checked: not covered by any document"
+  }
+]
